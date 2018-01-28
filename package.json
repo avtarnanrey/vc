@@ -1,0 +1,19 @@
+{
+  "name": "vc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avtarnanrey/vc.git"
+  },
+  "author": "Avtar Nanrey <avtar@avtarnanrey.com> (http://www.avtarnanrey.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avtarnanrey/vc/issues"
+  },
+  "homepage": "https://github.com/avtarnanrey/vc#readme"
+}
